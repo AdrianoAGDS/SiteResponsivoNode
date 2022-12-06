@@ -8,3 +8,5 @@
 
 - [X] Utilização do Git via linha de comando junto ao VSCode, colocado o terminal 
 do Git no VSCode. 
+
+Projedo de aprendizado para utilização de todo conhecimento adqurido até aqui e colocado em prática.
