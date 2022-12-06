@@ -4,7 +4,7 @@
 
 - [] Transformação do Site com NodeJS rodando via Servidor
 
-- [] Boa Estilização do CSS e utilização do Gimp na edição das Imagens
+- [X] Boa Estilização do CSS e utilização do Gimp na edição das Imagens
 
 - [] Utilização do Git via linha de comando junto ao VSCode, colocado o terminal 
 do Git no VSCode. 
