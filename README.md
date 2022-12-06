@@ -6,3 +6,5 @@
 
 [X] Boa Estilização do CSS e utilização do Gimp na edição das Imagens
 
+[X] Utilização do Git via linha de comando junto ao VSCode, colocado o terminal 
+do Git no VSCode. 
