@@ -1,0 +1,24 @@
+{
+  "name": "siteresponsivonode",
+  "version": "1.0.0",
+  "description": "- [X] Desenvolvimento de um site Simples em HTML e CSS Responsivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoAGDS/SiteResponsivoNode.git"
+  },
+  "keywords": [],
+  "author": "Adriano G S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoAGDS/SiteResponsivoNode/issues"
+  },
+  "homepage": "https://github.com/AdrianoAGDS/SiteResponsivoNode#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
